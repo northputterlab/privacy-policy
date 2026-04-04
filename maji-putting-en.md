@@ -1,14 +1,36 @@
-1. Personal Information
-This app does not collect, store, or require any personal information from users.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy</title>
+    <link rel="stylesheet" href="/privacy-policy/assets/style.css">
+</head>
+<body>
+    <h1>Privacy Poricy</h1>
 
-2. Advertisements
-The app displays ads provided by third-party ad networks. These providers may collect data such as device identifiers (e.g., Advertising ID) or usage information for the purpose of delivering personalized or contextual ads. All data collected by third-party providers is handled in accordance with their respective privacy policies. Users can opt out of personalized ads through their device settings or the ad network's opt-out tools.
+    <h2>1. Personal Information</h2>
+    <p>
+        This app does not collect, store, or require any personal information from users.
+    </p>
 
-3. In-App Purchases
-Purchases are processed through the platform's official store (e.g., App Store or Google Play). The app does not access or store payment information.
+    <h2>2. Advertisements</h2>
+    <p>
+        The app displays ads provided by third-party ad networks. These providers may collect data such as device identifiers (e.g., Advertising ID) or usage information for the purpose of delivering personalized or contextual ads. All data collected by third-party providers is handled in accordance with their respective privacy policies. Users can opt out of personalized ads through their device settings or the ad network's opt-out tools.
+    </p>
 
-4. Children's Privacy
-This app does not knowingly collect personal information from children.
+    <h2>3. In-App Purchases</h2>
+    <p>
+        Purchases are processed through the platform's official store (e.g., App Store or Google Play). The app does not access or store payment information.
+    </p>
 
-5. Changes to Policy
-This Privacy Policy may be updated when necessary. Continued use of the app indicates acceptance of the updated Policy.
+    <h2>4. Children's Privacy</h2>
+    <p>
+        This app does not knowingly collect personal information from children.
+    </p>
+
+    <h2>5. Changes to Policy</h2>
+    <p>
+        This Privacy Policy may be updated when necessary. Continued use of the app indicates acceptance of the updated Policy.
+    </p>
+</body>
+</html>
